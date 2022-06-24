@@ -1,11 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A lightweight CRUD application built on Rails with a React frontend. 
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version ruby 2.7.0p0
 
 * System dependencies
 
